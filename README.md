@@ -1,10 +1,28 @@
 # ZyroxClient downloads
 
+<img src="assets/hero.png" alt="ZyroxClient original purple Minecraft adventure artwork" width="100%">
+
+**Your game. Your style.** Free public preview for Minecraft Java Edition.
+
 Public download website and packaged preview releases for ZyroxClient.
 
 **Website:** https://sonixdeveloper.github.io/ZyroxClient/
 
 **Downloads:** https://github.com/SonixDeveloper/ZyroxClient/releases/tag/v0.2.0
+
+## Download now
+
+Files are hosted directly on GitHub Releases and can be downloaded without signing in.
+
+| Platform | Download |
+| --- | --- |
+| Windows x86_64 | [Download EXE](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-windows-x86_64.exe) · [ZIP](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-windows-x86_64.zip) |
+| Linux x86_64 | [Download AppImage](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-x86_64.AppImage) · [Flatpak](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-x86_64.flatpak) |
+| Android 8.0+ | [Download Companion APK](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-android-companion.apk) — **does not run Minecraft Java** |
+| Fabric 1.21.4 | [Download mod JAR](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/zyrox-client-fabric-1.21.4-0.2.0.jar) |
+| Integrity | [SHA-256 checksums](https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/SHA256SUMS) |
+
+The release downloads are independent of the GitHub Pages deployment.
 
 ## What is available
 
