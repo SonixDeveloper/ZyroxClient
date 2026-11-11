@@ -1,0 +1,57 @@
+{
+  "version": "0.2.0",
+  "tag": "v0.2.0",
+  "prerelease": true,
+  "repository": "SonixDeveloper/ZyroxClient",
+  "assets": [
+    {
+      "id": "windows-exe",
+      "name": "ZyroxClient-0.2.0-windows-x86_64.exe",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-windows-x86_64.exe",
+      "bytes": 15604736,
+      "sha256": "d03790a0c456c035cbd8c6b4215bd97423dc7801c0506b4b7ca5fffba0a3ea53"
+    },
+    {
+      "id": "windows-zip",
+      "name": "ZyroxClient-0.2.0-windows-x86_64.zip",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-windows-x86_64.zip",
+      "bytes": 9692071,
+      "sha256": "b1db644f6cf58dac5c258b211dcc0e29eef5c22ce2ef6c6eee2e94eb6577b028"
+    },
+    {
+      "id": "linux-appimage",
+      "name": "ZyroxClient-0.2.0-x86_64.AppImage",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-x86_64.AppImage",
+      "bytes": 10926584,
+      "sha256": "1b883d333c1b207bd5754acbaca72b8c85fe17c1ea5f3fafa075a0b09bd388fb"
+    },
+    {
+      "id": "linux-flatpak",
+      "name": "ZyroxClient-0.2.0-x86_64.flatpak",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-x86_64.flatpak",
+      "bytes": 8584880,
+      "sha256": "4cd429450ce0681c21d20171777da3f579e919710209e79e5b9598ba7e96970d"
+    },
+    {
+      "id": "android-companion",
+      "name": "ZyroxClient-0.2.0-android-companion.apk",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/ZyroxClient-0.2.0-android-companion.apk",
+      "bytes": 29528,
+      "sha256": "59649ce84203aa70514858d5d381f1c15700eeb24d26ac97ec559e4c7702feed"
+    },
+    {
+      "id": "fabric-jar",
+      "name": "zyrox-client-fabric-1.21.4-0.2.0.jar",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/zyrox-client-fabric-1.21.4-0.2.0.jar",
+      "bytes": 2128980,
+      "sha256": "beaea7c2ee1b16c333a279d7706bb84d2508e3925b83055d4089461edbd26e54"
+    },
+    {
+      "id": "checksums",
+      "name": "SHA256SUMS",
+      "url": "https://github.com/SonixDeveloper/ZyroxClient/releases/download/v0.2.0/SHA256SUMS",
+      "bytes": 614,
+      "sha256": "965127bd9933cf80a3b2d33828ac3e8bab807561157cc7395add7c991065eb4a"
+    }
+  ]
+}

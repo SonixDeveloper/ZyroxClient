@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sonixdeveloper.github.io/ZyroxClient/sitemap.xml
